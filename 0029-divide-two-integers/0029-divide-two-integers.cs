@@ -3,7 +3,7 @@ public class Solution {
         if (dividend == int.MinValue && divisor == -1)
             return int.MaxValue;
 
-        bool isNegative = (dividend < 0) ^ (divisor < 0);  
+        bool isNegative = (dividend < 0) ^ (divisor < 0);  // واحدة فقط سالبة
 
         long absDividend = Math.Abs((long)dividend);
         long absDivisor = Math.Abs((long)divisor);
