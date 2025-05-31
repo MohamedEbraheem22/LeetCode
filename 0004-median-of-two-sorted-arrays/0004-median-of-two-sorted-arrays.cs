@@ -1,13 +1,13 @@
 public class Solution {
     public double FindMedianSortedArrays(int[] nums1, int[] nums2) {
-        // نرتب كل مصفوفة
+        
         Array.Sort(nums1);
         Array.Sort(nums2);
 
         int m = nums1.Length, n = nums2.Length;
         double[] mergedArr = new double[m + n];
 
-        // دمج مصفوفتين مرتبتين بطريقة مرتبة
+        
         int i = 0, j = 0, k = 0;
         while (i < m && j < n) {
             if (nums1[i] < nums2[j]) {
