@@ -1,35 +1,26 @@
 public class Solution {
     public int Divide(int dividend, int divisor) {
-       if (divisor == 0)
-        throw new DivideByZeroException();
+        if (dividend == int.MinValue && divisor == -1)
+            return int.MaxValue;
 
-    if (dividend == int.MinValue && divisor == -1)
-        return int.MaxValue;
+        bool isNegative = (dividend < 0) ^ (divisor < 0);  // واحدة فقط سالبة
 
-    bool negative = (dividend < 0) ^ (divisor < 0);  // تحدد علامة الناتج
+        long absDividend = Math.Abs((long)dividend);
+        long absDivisor = Math.Abs((long)divisor);
 
-    long dividendL = Math.Abs((long)dividend);
-    long divisorL = Math.Abs((long)divisor);
-
-    int result = 0;
-
-    while (dividendL >= divisorL) {
-        long temp = divisorL;
-        int multiple = 1;
-
-        // نضاعف temp لحد ما يكون أكبر من dividendL
-        while (dividendL >= (temp << 1)) {
-            temp <<= 1;     // temp = temp * 2
-            multiple <<= 1; // multiple = multiple * 2
+        int res = 0;
+        while (absDividend >= absDivisor) {
+            long temp = absDivisor;
+            int multiple = 1;
+            while(absDividend > (temp<<1))
+            {
+                temp<<=1;
+                multiple<<=1;
+            }
+            absDividend -= temp;
+            res +=multiple;
         }
 
-        dividendL -= temp;  // نطرح أكبر مضاعف من dividend
-        result += multiple; // نضيف عدد المضاعفات للناتج
+        return isNegative ? -res : res;
     }
-
-    return negative ? -result : result;
-             
-        }
-        
-        
-    }
+}
