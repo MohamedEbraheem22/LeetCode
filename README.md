@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0204-count-primes](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0204-count-primes) |
 | [2058-concatenation-of-array](https://github.com/MohamedEbraheem22/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
@@ -57,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
