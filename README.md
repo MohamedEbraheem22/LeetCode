@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
