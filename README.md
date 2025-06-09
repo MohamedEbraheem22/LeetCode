@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/MohamedEbraheem22/LeetCode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0029-divide-two-integers) |
+| [0258-add-digits](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0013-roman-to-integer) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MohamedEbraheem22/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
